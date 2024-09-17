@@ -1,9 +1,9 @@
-const NoPage = () => {
-  return (
-      <div>
-          No Page
-      </div>
-  );
-}
+//const NoPage = () => {
+//  return (
+  //    <div>
+    //      No Page
+  //    </div>
+//  );
+//}
 
-export default NoPage;
+//export default NoPage;
